@@ -14,8 +14,7 @@ int main()
         {
             cout<<num;
             num++;
-        }
-        
+        }  
         cout<<endl;
     }
 }
